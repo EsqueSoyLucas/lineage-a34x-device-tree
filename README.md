@@ -1,2 +1,9 @@
-# lineage-a34x-device-tree
-Device Tree made from Samsung Galaxy A34 5G SM-A346M dump.
+# Android device tree for samsung SM-A346M (a34x)
+
+```
+#
+# Copyright (C) 2024 The LineageOS Project
+#
+# SPDX-License-Identifier: Apache-2.0
+#
+```
